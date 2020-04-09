@@ -26,11 +26,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+You will need either the Arduino IDE or Visual Studio Code with Platform.IO. The latter one is recommendend. Links see below.
 
-```
-Give examples
-```
 
 ### Compiling
 
