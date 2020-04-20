@@ -18,28 +18,11 @@ Read more in the wiki or at [fdx.de](https://fdx.de/blog/oscibreath).
 
 ## Hardware  ##
 
-In the hardware folder you will find the geometry in a CAD file format which can be used to 3D print the device. You will also find some drawings and instrucions how to set up the microcontroller (STM32, bluepill)
+In the hardware folder you will find the geometry in a CAD file format which can be used to 3D print the device. You will also find some drawings and instructions how to set up the micro controller (STM32, bluepill)
 
 ## Software
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-You will need either the Arduino IDE or Visual Studio Code with Platform.IO. The latter one is recommendend. Links see below.
-
-
-### Compiling
-
-In order to compile the firmware you will just have to clone the repositry to your computer and load it ...
-
-```
-git clone
-```
-
-### FFT Library
-
-We were using the FFT Library [arduinoFFT](https://github.com/kosme/arduinoFFT) by kosme, which was licensend under GNU GPL v3. We did some changes to the library and added it tothis repository. 
+*upcoming*
 
 ## Built With
 
@@ -48,14 +31,12 @@ We were using the FFT Library [arduinoFFT](https://github.com/kosme/arduinoFFT) 
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please contact us directly if you want to contribute. 
 
 ## Authors
 
 * **Thorge Schweitzer** - *Initial work* 
 * **Oliver Krüger** - *Initial work* 
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
@@ -65,4 +46,6 @@ The FDX logo is a registered trademark of the Fluid Dynamix GmbH. Despite the lo
 
 ## Acknowledgments
 
-* Hat tip to Cubicure GmbH for supporting the project
+* Hat tip to Cubicure GmbH for supporting the project.
+* Many thanks to the [DIYBeatmungsgerät Project ](https://diy-beatmungsgerät.de) and Alexander Zahlke
+
