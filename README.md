@@ -14,7 +14,7 @@ In brief, the idea is that when the device is fed with air it creates a flow ins
 
 ![Working Principal](./docs/images/working_principle.jpg)
 
-Read more in the wiki or at [fdx.de](https://fdx.de/blog/oscibreath).
+*upcoming*: Read more in the wiki or at [fdx.de](https://fdx.de/blog/oscibreath).
 
 ## Hardware  ##
 
@@ -24,7 +24,7 @@ In the hardware folder you will find the geometry in a CAD file format which can
 
 *upcoming*
 
-## Built With
+### Built With
 
 * [Visual Studio Code](https://code.visualstudio.com/) - The IDE used
 * [Platform.io](https://platform.io/) - The extension for VSC to compile and upload the firmware
@@ -42,10 +42,10 @@ Please contact us directly if you want to contribute.
 
 The FDX logo is a registered trademark of the Fluid Dynamix GmbH. Despite the logo, the further content of this project itself is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/), and the source code for the firmware is used in this project is licensed under the [GNU GPL Version 3](http://www.gnu.org/licenses/gpl-3.0.html).
 
-**Please note:** The hardware device is **patented** by FDX Fluid Dynamix GmbH. The unaltered device may be used free of charge for non-commercial use in medical ventilators. For commercial use please contact us via email [info@fdx.de](mailto:info@fdx.de) or another channel found at our website [www.fdx.de](https://www.fdx.de/). 
+**Please note:** The hardware device is **patented** by FDX Fluid Dynamix GmbH. The unaltered device may be used free of charge for non-commercial use in medical ventilators. For commercial use please contact us via email [info@fdx.de](mailto:info@fdx.de) or any other  channel found at our website [www.fdx.de](https://www.fdx.de/). 
 
 ## Acknowledgments
 
 * Hat tip to Cubicure GmbH for supporting the project.
-* Many thanks to the [DIYBeatmungsgerät Project ](https://diy-beatmungsgerät.de) and Alexander Zahlke
+* Many thanks to the [DIYBeatmungsgerät Project ](https://diy-beatmungsgerät.de) 
 
