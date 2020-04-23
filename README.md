@@ -18,7 +18,7 @@ In brief, the idea is that when the device is fed with air it creates a flow ins
 
 ## Hardware  ##
 
-In the hardware folder you will find the geometry in a CAD file format which can be used to 3D print the device. You will also find some drawings and instructions how to set up the micro controller (STM32, bluepill)
+In the hardware folder you will find the geometry in a CAD file format which can be used to 3D print the device. 
 
 ## Software
 
@@ -46,6 +46,6 @@ The FDX logo is a registered trademark of the Fluid Dynamix GmbH. Despite the lo
 
 ## Acknowledgments
 
-* Hat tip to Cubicure GmbH for supporting the project.
+* Hat tip to [Cubicure GmbH](https://www.cubicure.com/) for supporting the project.
 * Many thanks to the [DIYBeatmungsgerät Project ](https://diy-beatmungsgerät.de) 
 
