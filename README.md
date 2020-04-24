@@ -2,7 +2,7 @@
 
 A volume flowmeter for medical ventilators based on OsciJet Technology.
 
-**Please note that this is work in progress and may be undergo heavy changes**
+**Please note that this is work in progress and may undergo heavy changes**
 
 ## About ##
 
