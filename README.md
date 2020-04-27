@@ -14,7 +14,7 @@ In brief, the idea is that when the device is fed with air it creates a flow ins
 
 ![Working Principal](./docs/images/working_principle.jpg)
 
-*upcoming*: Read more in the wiki or at [fdx.de](https://fdx.de/blog/oscibreath).
+*upcoming*: Read more in the wiki or at [fdx.de](https://fdx.de).
 
 ## Hardware  ##
 
